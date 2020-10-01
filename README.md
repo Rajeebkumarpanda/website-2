@@ -22,6 +22,7 @@ Project Organization
   * No dummy content in master, ever.
   * Small diff is best diff.
   * The reviewer is the gatekeeper. Be kind of a dick.
+  *Created with love.
 
 
 Architecture/Philosophies
